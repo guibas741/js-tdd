@@ -1,0 +1,24 @@
+{
+  "name": "js-tdd",
+  "version": "1.0.0",
+  "description": "biblioteca do curso js com tdd",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guibas741/js-tdd.git"
+  },
+  "keywords": [
+    "js",
+    "tdd",
+    "library"
+  ],
+  "author": "Guilherme Augusto <bublitz.stein@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/guibas741/js-tdd/issues"
+  },
+  "homepage": "https://github.com/guibas741/js-tdd#readme"
+}
